@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm @Luka Leiber
+Hi, I'm Luka Leiber
 
 
 ## 🌐 Socials:
