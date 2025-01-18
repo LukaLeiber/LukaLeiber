@@ -1,4 +1,4 @@
-# 💫 About Me: Hi, I'm Luka Leiber
+# 💫 Hi, I'm Luka Leiber
 
 :seedling: I'm currently learning how to use C# and Unity better to boost my knowledge in game development
 
