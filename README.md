@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hi, I'm Luka Leiber
 
+:seedling: I'm currently learning how to use C# and Unity better to boost my knowledge in game development
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luka-leiber-69743433a) 
